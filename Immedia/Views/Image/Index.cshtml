@@ -1,0 +1,45 @@
+﻿@model RootImage  
+
+
+
+@if (Model.hits.Count < 0)
+{
+    <h1>NO Data</h1>
+}
+else
+{
+
+  <table class="table table-borderless">
+        <thead>
+            <tr>
+                <th scope="col">User</th>
+                <th>type</th>
+                <th>tags</th>
+                <th>views</th>
+                <th>downloads</th>
+                <th>likes</th>
+                <th>comments</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model.hits)
+            {
+            <tr>
+                <td>@p.user</td>
+                <td>@p.type</td>
+                <td>@p.tags</td>
+                <td>@p.views</td>
+                <td>@p.downloads</td>
+                <td>@p.likes</td>
+                <td>@p.comments</td>
+
+            </tr>
+            <tr>
+                <td colspan="2"><a href=@p.largeImageURL><img src=@p.webformatURL /></a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}

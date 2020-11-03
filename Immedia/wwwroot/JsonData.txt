@@ -1,0 +1,1802 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5f99a26463aa2b1b7b420f69"
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "4efd99619a520dfd642c41fd",
+                "name": "Durban City Hall",
+                "contact": {},
+                "location": {
+                    "address": "West And Smith Streets",
+                    "crossStreet": "Soldiers Way",
+                    "lat": -29.858307517539654,
+                    "lng": 31.025780002218752,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.858307517539654,
+                            "lng": 31.025780002218752
+                        }
+                    ],
+                    "postalCode": "4000",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "West And Smith Streets (Soldiers Way)",
+                        "ITheku",
+                        "4000",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4bb322d742959c74978f212c",
+                "name": "Smartxchange",
+                "contact": {},
+                "location": {
+                    "address": "5 Walnut Road",
+                    "lat": -29.855823752441797,
+                    "lng": 31.02904454143683,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.855823752441797,
+                            "lng": 31.02904454143683
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "5 Walnut Road",
+                        "ITheku",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "50a48debe4b0a46f910a6256",
+                "name": "Hyundai",
+                "contact": {},
+                "location": {
+                    "lat": -29.85906,
+                    "lng": 31.02923,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.85906,
+                            "lng": 31.02923
+                        }
+                    ],
+                    "cc": "ZA",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4eb1c1623b7b52c0e1adc2ec",
+                        "name": "Auto Dealership",
+                        "pluralName": "Auto Dealerships",
+                        "shortName": "Auto Dealer",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "5360c63a11d2c3c6831ad6cd",
+                "name": "Embassy Building - Mango 5 Call Centre",
+                "contact": {},
+                "location": {
+                    "lat": -29.859294891357422,
+                    "lng": 31.027965545654297,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.859294891357422,
+                            "lng": 31.027965545654297
+                        }
+                    ],
+                    "cc": "ZA",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12c951735",
+                        "name": "Embassy / Consulate",
+                        "pluralName": "Embassies / Consulates",
+                        "shortName": "Embassy",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/embassy_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4d7f3ac0f635236a0c337516",
+                "name": "Sars Albany House",
+                "contact": {},
+                "location": {
+                    "address": "Albany house",
+                    "crossStreet": "61-62 Albert mncadi",
+                    "lat": -29.857514225349174,
+                    "lng": 31.03035481193417,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.857514225349174,
+                            "lng": 31.03035481193417
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Albany house (61-62 Albert mncadi)",
+                        "ITheku",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d130941735",
+                        "name": "Building",
+                        "pluralName": "Buildings",
+                        "shortName": "Building",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4f3ccc09e4b0d26d1540b5a9",
+                "name": "BP",
+                "contact": {},
+                "location": {
+                    "address": "208 Dr Pixley Kaseme St",
+                    "lat": -29.85745622,
+                    "lng": 31.02852808,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.85745622,
+                            "lng": 31.02852808
+                        }
+                    ],
+                    "postalCode": "4000",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "208 Dr Pixley Kaseme St",
+                        "ITheku",
+                        "4000",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d113951735",
+                        "name": "Gas Station",
+                        "pluralName": "Gas Stations",
+                        "shortName": "Gas Station",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gas_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4e61e83bd22d509a3962ff6b",
+                "name": "SARS",
+                "contact": {},
+                "location": {
+                    "address": "201 West Street",
+                    "lat": -29.857467102812375,
+                    "lng": 31.028645111407897,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.857467102812375,
+                            "lng": 31.028645111407897
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "Durban",
+                    "state": "KZN",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "201 West Street",
+                        "Durban",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d126941735",
+                        "name": "Government Building",
+                        "pluralName": "Government Buildings",
+                        "shortName": "Government",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4ca58353f47ea14373fe5721",
+                "name": "CCMA",
+                "contact": {},
+                "location": {
+                    "address": "Smith Street",
+                    "lat": -29.859326746134865,
+                    "lng": 31.02871977133577,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.859326746134865,
+                            "lng": 31.02871977133577
+                        }
+                    ],
+                    "cc": "ZA",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Smith Street",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4def2afd7d8bb02cbef3b7a4",
+                "name": "Portnet",
+                "contact": {},
+                "location": {
+                    "address": "Anton lambede street",
+                    "crossStreet": "Mona",
+                    "lat": -29.859831547907564,
+                    "lng": 31.028831761124515,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.859831547907564,
+                            "lng": 31.028831761124515
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "Durban",
+                    "state": "KZN",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Anton lambede street (Mona)",
+                        "Durban",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4e142e611f6e33e718081d44",
+                "name": "The Gugu Dlamini Park",
+                "contact": {},
+                "location": {
+                    "lat": -29.85538340322849,
+                    "lng": 31.031413096949827,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.85538340322849,
+                            "lng": 31.031413096949827
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "더반",
+                    "state": "KwaZulu-나탈",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "더반",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d163941735",
+                        "name": "Park",
+                        "pluralName": "Parks",
+                        "shortName": "Park",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4dc7f4d3d4c0ad9c0fc376c6",
+                "name": "Mass Discounters Liberty House",
+                "contact": {},
+                "location": {
+                    "lat": -29.856709687634492,
+                    "lng": 31.027913441789345,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.856709687634492,
+                            "lng": 31.027913441789345
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "Durban",
+                    "state": "KZN",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Durban",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d130941735",
+                        "name": "Building",
+                        "pluralName": "Buildings",
+                        "shortName": "Building",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4f158a15e4b09e58a50deda1",
+                "name": "Bayside Motors",
+                "contact": {},
+                "location": {
+                    "lat": -29.858064065484125,
+                    "lng": 31.028501390948843,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.858064065484125,
+                            "lng": 31.028501390948843
+                        }
+                    ],
+                    "cc": "ZA",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d113951735",
+                        "name": "Gas Station",
+                        "pluralName": "Gas Stations",
+                        "shortName": "Gas Station",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gas_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4f28d84fe4b01870524a0a54",
+                "name": "CMH Datcentre",
+                "contact": {},
+                "location": {
+                    "lat": -29.85753030558712,
+                    "lng": 31.02983406510663,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.85753030558712,
+                            "lng": 31.02983406510663
+                        }
+                    ],
+                    "cc": "ZA",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124951735",
+                        "name": "Automotive Shop",
+                        "pluralName": "Automotive Shops",
+                        "shortName": "Automotive",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4dad4040ec8effc36da0460a",
+                "name": "Jimmy's Killer Prawns  - Westwood mall",
+                "contact": {},
+                "location": {
+                    "address": "12 Lincoln Tier road, Westwood Mall",
+                    "lat": -29.858064065484125,
+                    "lng": 31.02697271717721,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.858064065484125,
+                            "lng": 31.02697271717721
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "12 Lincoln Tier road, Westwood Mall",
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ce941735",
+                        "name": "Seafood Restaurant",
+                        "pluralName": "Seafood Restaurants",
+                        "shortName": "Seafood",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4e9e903c4901fd63b81af892",
+                "name": "1st Car Rental",
+                "contact": {},
+                "location": {
+                    "lat": -29.855981667727228,
+                    "lng": 31.028697373365553,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.855981667727228,
+                            "lng": 31.028697373365553
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ef941735",
+                        "name": "Rental Car Location",
+                        "pluralName": "Rental Car Locations",
+                        "shortName": "Rental Car",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/airport_rentalcar_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "504f2dffe4b0a47b122a0f84",
+                "name": "Shanduka Black Umbrellas",
+                "contact": {},
+                "location": {
+                    "address": "SmartXchange Building",
+                    "crossStreet": "5 Walnut Road",
+                    "lat": -29.855964948027943,
+                    "lng": 31.027913441789345,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.855964948027943,
+                            "lng": 31.027913441789345
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "SmartXchange Building (5 Walnut Road)",
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d130941735",
+                        "name": "Building",
+                        "pluralName": "Buildings",
+                        "shortName": "Building",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "51651c2ee4b0122ca0e5f95a",
+                "name": "Dept Of Education - Malgate Hse",
+                "contact": {},
+                "location": {
+                    "lat": -29.858601002006463,
+                    "lng": 31.031698664332062,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.858601002006463,
+                            "lng": 31.031698664332062
+                        }
+                    ],
+                    "cc": "ZA",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d130941735",
+                        "name": "Building",
+                        "pluralName": "Buildings",
+                        "shortName": "Building",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4c24ee6ff7ced13ae6a9236d",
+                "name": "Roma Revolving Restaurant",
+                "contact": {},
+                "location": {
+                    "address": "22 Margaret Mncadi Avenue, 32 Floor, Durban",
+                    "lat": -29.860747445854404,
+                    "lng": 31.030488602342643,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.860747445854404,
+                            "lng": 31.030488602342643
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "22 Margaret Mncadi Avenue, 32 Floor, Durban",
+                        "ITheku",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d110941735",
+                        "name": "Italian Restaurant",
+                        "pluralName": "Italian Restaurants",
+                        "shortName": "Italian",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "506a8ad08aca5012229b9090",
+                "name": "Old Court House Museum",
+                "contact": {},
+                "location": {
+                    "address": "77 Samora Machel Street, Durban Central",
+                    "lat": -29.857196807861328,
+                    "lng": 31.0277042388916,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.857196807861328,
+                            "lng": 31.0277042388916
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "77 Samora Machel Street, Durban Central",
+                        "ITheku",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d181941735",
+                        "name": "Museum",
+                        "pluralName": "Museums",
+                        "shortName": "Museum",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4f101dd7e4b0042052e1e7bf",
+                "name": "Durban Mayor's Office",
+                "contact": {},
+                "location": {
+                    "address": "Durban City Hall",
+                    "lat": -29.85602675338192,
+                    "lng": 31.02856298545696,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.85602675338192,
+                            "lng": 31.02856298545696
+                        }
+                    ],
+                    "cc": "ZA",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Durban City Hall",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d126941735",
+                        "name": "Government Building",
+                        "pluralName": "Government Buildings",
+                        "shortName": "Government",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "5c890ccb1987ec002cb21514",
+                "name": "Altech Netstar",
+                "contact": {},
+                "location": {
+                    "address": "101 Monty Naicker Rd",
+                    "lat": -29.856149,
+                    "lng": 31.0299,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.856149,
+                            "lng": 31.0299
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "Durban",
+                    "state": "KZN",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "101 Monty Naicker Rd",
+                        "Durban",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "5453de49498eade8af355881",
+                        "name": "Business Service",
+                        "pluralName": "Business Services",
+                        "shortName": "Business Services",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4e417310fa7697d3df8734a7",
+                "name": "Albany Hotel",
+                "contact": {},
+                "location": {
+                    "lat": -29.858934,
+                    "lng": 31.027294,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.858934,
+                            "lng": 31.027294
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1fa931735",
+                        "name": "Hotel",
+                        "pluralName": "Hotels",
+                        "shortName": "Hotel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "507519f9b0eda626379ef8ce",
+                "name": "Protector Film",
+                "contact": {},
+                "location": {
+                    "address": "184 Dr. Pixley Ka Seme Street",
+                    "lat": -29.857357,
+                    "lng": 31.029665,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.857357,
+                            "lng": 31.029665
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "184 Dr. Pixley Ka Seme Street",
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ff941735",
+                        "name": "Miscellaneous Shop",
+                        "pluralName": "Miscellaneous Shops",
+                        "shortName": "Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4f27fe19e4b0fa5ce57c7fb6",
+                "name": "South African Reserve Bank",
+                "contact": {},
+                "location": {
+                    "lat": -29.855870444493732,
+                    "lng": 31.027695059943525,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.855870444493732,
+                            "lng": 31.027695059943525
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10a951735",
+                        "name": "Bank",
+                        "pluralName": "Banks",
+                        "shortName": "Bank",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4e4b7c9bb0fbbc2182acbd81",
+                "name": "Bidvest Panalpina - Durban",
+                "contact": {},
+                "location": {
+                    "address": "Monty Naicker Rd",
+                    "crossStreet": "Samora Machel St",
+                    "lat": -29.857876343753542,
+                    "lng": 31.0275774695552,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.857876343753542,
+                            "lng": 31.0275774695552
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Monty Naicker Rd (Samora Machel St)",
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "50b32f5de4b0a6153dd66ab0",
+                "name": "Bluff Veterinary Clinic",
+                "contact": {},
+                "location": {
+                    "address": "910 Bluff Rd, Bluff",
+                    "crossStreet": "Bluff",
+                    "lat": -29.883799,
+                    "lng": 31.050034,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.883799,
+                            "lng": 31.050034
+                        }
+                    ],
+                    "postalCode": "4052",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "910 Bluff Rd, Bluff (Bluff)",
+                        "ITheku",
+                        "4052",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4d954af4a243a5684765b473",
+                        "name": "Veterinarian",
+                        "pluralName": "Veterinarians",
+                        "shortName": "Veterinarians",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_veterinarian_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "551c1964498ea0dfaff2003e",
+                "name": "Nando's",
+                "contact": {},
+                "location": {
+                    "address": "Cnr Samora Machel & Dr A B Xuma St",
+                    "lat": -29.855947,
+                    "lng": 31.026479,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.855947,
+                            "lng": 31.026479
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Cnr Samora Machel & Dr A B Xuma St",
+                        "ITheku",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4def73e84765ae376e57713a",
+                        "name": "Portuguese Restaurant",
+                        "pluralName": "Portuguese Restaurants",
+                        "shortName": "Portuguese",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "venuePage": {
+                    "id": "553357280"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "5b754f890dd31f002b60ece4",
+                "name": "Wild Bean Cafe",
+                "contact": {},
+                "location": {
+                    "address": "208 Dr Pixley Kaseme St",
+                    "lat": -29.85740813,
+                    "lng": 31.02853367,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.85740813,
+                            "lng": 31.02853367
+                        }
+                    ],
+                    "postalCode": "4000",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "208 Dr Pixley Kaseme St",
+                        "ITheku",
+                        "4000",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "venuePage": {
+                    "id": "565036159"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4ffad48d29a6fd0b67eb40ea",
+                "name": "Krishnas's Vegetarian Cuisine",
+                "contact": {},
+                "location": {
+                    "address": "Shop 23, Salisbury Centre, 347 Dr Pixley Kaseme Street",
+                    "lat": -29.857542762622767,
+                    "lng": 31.02940320968628,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.857542762622767,
+                            "lng": 31.02940320968628
+                        }
+                    ],
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Shop 23, Salisbury Centre, 347 Dr Pixley Kaseme Street",
+                        "ITheku",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f9941735",
+                        "name": "Food & Drink Shop",
+                        "pluralName": "Food & Drink Shops",
+                        "shortName": "Food & Drink",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4cc85d9dee718cfadfcdb73d",
+                "name": "UCEC",
+                "contact": {},
+                "location": {
+                    "address": "Mona Road",
+                    "lat": -29.860301,
+                    "lng": 31.029193,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": -29.860301,
+                            "lng": 31.029193
+                        }
+                    ],
+                    "postalCode": "4001",
+                    "cc": "ZA",
+                    "city": "ITheku",
+                    "state": "KwaZulu-Natal",
+                    "country": "iNingizimu Afrika",
+                    "formattedAddress": [
+                        "Mona Road",
+                        "ITheku",
+                        "4001",
+                        "iNingizimu Afrika"
+                    ]
+                },
+                "categories": [],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1603904100",
+                "venueChains": [],
+                "hasPerk": false
+            }
+        ],
+        "confident": false,
+        "geocode": {
+            "what": "",
+            "where": "durban",
+            "feature": {
+                "cc": "ZA",
+                "name": "Durban",
+                "displayName": "Durban, South Africa",
+                "matchedName": "Durban, South Africa",
+                "highlightedName": "<b>Durban</b>, South Africa",
+                "woeType": 7,
+                "slug": "durban",
+                "id": "geonameid:1007311",
+                "longId": "72057594038935247",
+                "geometry": {
+                    "center": {
+                        "lat": -29.8579,
+                        "lng": 31.0292
+                    },
+                    "bounds": {
+                        "ne": {
+                            "lat": -29.618196006827713,
+                            "lng": 31.06768899811865
+                        },
+                        "sw": {
+                            "lat": -30.274053961565176,
+                            "lng": 30.68548108372399
+                        }
+                    }
+                }
+            },
+            "parents": []
+        }
+    }
+}

@@ -1,0 +1,49 @@
+﻿@model Root
+
+@if (Model.response.Venues.Count() < 0)
+    {
+        <h1>NO DATA</h1>
+    }
+    else
+    {
+        <table class="table table-borderless">
+            <thead>
+                <tr>
+                    <th scope="col">Names of Venues</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @foreach (var n in Model.response.Venues)
+                    {
+                        <td>
+                            <div><h2>@n.Name</h2></div>
+                            <table>
+                                <tr>
+                                    <table class="table table-borderless">
+                                        <tr>
+                                            <th>address</th>
+                                            <th>crossStreet</th>
+                                            <th>postalCode</th>
+                                            <th>city</th>
+                                            <th>state</th>
+                                        </tr>
+                                        @foreach (var l in Model.response.Venues)
+                                        {
+                                            <tr>
+                                                <td>@l.Location.Address</td>
+                                                <td>@l.Location.CrossStreet</td>
+                                                <td>@l.Location.PostalCode</td>
+                                                <td>@l.Location.City</td>
+                                                <td>@l.Location.State</td>
+                                            </tr>
+                                        }
+                                    </table>
+                                </tr>
+                            </table>
+                        </td>
+                    }
+                </tr>
+            </tbody>
+        </table>
+    }
